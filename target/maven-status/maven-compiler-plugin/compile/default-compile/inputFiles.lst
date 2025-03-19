@@ -1,5 +1,5 @@
 /Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/ApsApplication.java
-/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/prod/Produto.java
-/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/prod/ProdutoController.java
-/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/prod/ProdutoRepository.java
-/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/prod/ProdutoService.java
+/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/produto/Produto.java
+/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/produto/ProdutoController.java
+/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/produto/ProdutoRepository.java
+/Users/isa/Documents/4-periodo/proj-soft/projeto-software-produto/src/main/java/br/insper/aps/produto/ProdutoService.java

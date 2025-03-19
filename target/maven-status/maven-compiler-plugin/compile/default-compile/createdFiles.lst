@@ -1,5 +1,5 @@
-br/insper/aps/prod/ProdutoService.class
-br/insper/aps/prod/ProdutoRepository.class
+br/insper/aps/produto/ProdutoService.class
+br/insper/aps/produto/ProdutoRepository.class
 br/insper/aps/ApsApplication.class
-br/insper/aps/prod/Produto.class
-br/insper/aps/prod/ProdutoController.class
+br/insper/aps/produto/ProdutoController.class
+br/insper/aps/produto/Produto.class
